@@ -16,12 +16,18 @@ team_members:
 team_members:
   - name: "Suyash Desai"
     email: "suyashdesai63@gmail.com"
-    role: "Backend & Deployment"
+    role: "Backend Architecture"
     
 team_members:
   - name: "SAHIL CHAVAN"
     email: "sahilchavanajara327@gmail.com"
     role: "Data Engineer"
+
+team_members:
+  - name: "Samarth Katageri"
+    email: "samarthkatageri2004@gmail.com"
+    role: "Deployment"
+
 
 # ============================================================================
 # Code and reproducibility
